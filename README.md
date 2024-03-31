@@ -2,8 +2,8 @@
 
 ###
 
-<img align="left" height="250" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
-<img align="right" height="250" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
+<img align="left" height="200" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
+<img align="right" height="200" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
 </p>
 
 .
