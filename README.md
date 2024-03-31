@@ -92,6 +92,8 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 
 # ˚ ༘♡ ⋆｡˚ SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
 
+↳ DESCRIPTION ༉‧₊
+
 
 ###
 <p align="center">
@@ -131,6 +133,7 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 
 # ˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
 
+↳ DESCRIPTION ༉‧₊
 
 ###
 <p align="center">
@@ -164,6 +167,7 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 
 # ˚ ༘♡ ⋆｡˚ DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
 
+↳ DESCRIPTION ༉‧₊
 
 ###
 <p align="center">
@@ -196,6 +200,7 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 ###
 # ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
 
+↳ DESCRIPTION ༉‧₊
 
 ###
 <p align="center">
