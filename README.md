@@ -53,39 +53,17 @@ Cylindrical manipulators are usually used in different industries, including man
 
 ###
 
-<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+###
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
 
 ###
-###
-
-###
-
-###
-
-###
-
-
-
-###
-
-
-
-###
 .
-
-
-###
-
-###
-
-.
-
 ###
 ###
-
-.
+###
 
 
 
@@ -96,40 +74,17 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 
 ###
 
-<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+###
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
 
 ###
-###
-
-###
-
-###
-
-###
-
-
-
-###
-
-
-
-###
 .
-
-
-###
-
-###
-
-.
-
 ###
 ###
-
-.
-
+###
 
 
 # ˚ ༘♡ ⋆｡˚ SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
@@ -153,39 +108,17 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 
 
 ###
-<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+###
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
 
 ###
-
-###
-
-###
-
-###
-
-
-
-###
-
-
-
-###
 .
-
-
-###
-
-###
-
-.
-
 ###
 ###
-
-.
-
+###
 
 # ˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
 
@@ -207,38 +140,17 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 </a>
 
 ###
-<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+###
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
 
 ###
-
-###
-
-###
-
-###
-
-
-
-###
-
-
-
-###
 .
-
-
-###
-
-###
-
-.
-
 ###
 ###
-
-.
+###
 
 # ˚ ༘♡ ⋆｡˚ DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
 
@@ -260,39 +172,17 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 </a>
 
 ###
-<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+###
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
 
 ###
-
-###
-
-###
-
-###
-
-
-
-###
-
-
-
-###
 .
-
-
-###
-
-###
-
-.
-
 ###
 ###
-
-.
-
+###
 # ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
 
 
@@ -313,37 +203,14 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 </a>
 
 ###
-<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+###
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
 
 ###
-
-###
-
-###
-
-###
-
-
-
-###
-
-
-
-###
 .
-
-
-###
-
-###
-
-.
-
 ###
 ###
-
-.
-
-
+###
