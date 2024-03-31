@@ -207,7 +207,7 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 ###
 ###
 <div align="center">
-  <a href="https://drive.google.com/drive/folders/1TS5CvWVjVaRwQ8vpbFUDK6reoptMQM_2?fbclid=IwAR16zdWJbdkgDo0KGfScVNfKZSpxTWc4hubE_fIYt3gu6cXm9J-nWmg5W1o_aem_AS_xEdXeUexQdOG-eJCxUjDO_nBLrBW26W-u97DY3NYOr62D6DiDDmGmGc5lqstMykkrmVMozgnyE7e1YZjrcnTP" target="_blank">
+  <a href="https://drive.google.com/file/d/1VQinvBY4uOlH3hYz1ZLntOjnTrg3Q3Fj/view?usp=drive_link" target="_blank">
     <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ed7b0f24-fa22-4e4d-96a0-b57f109d06f5"  />
   </a>
 </div>
