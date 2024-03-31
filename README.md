@@ -203,6 +203,13 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 </a>
 
 ###
+<div align="left">
+  <a href="https://drive.google.com/drive/folders/1TS5CvWVjVaRwQ8vpbFUDK6reoptMQM_2?fbclid=IwAR16zdWJbdkgDo0KGfScVNfKZSpxTWc4hubE_fIYt3gu6cXm9J-nWmg5W1o_aem_AS_xEdXeUexQdOG-eJCxUjDO_nBLrBW26W-u97DY3NYOr62D6DiDDmGmGc5lqstMykkrmVMozgnyE7e1YZjrcnTP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
 ###
 
 <img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
