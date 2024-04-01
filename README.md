@@ -228,15 +228,10 @@ _FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL 
 
 **➥ RULES 4:** _REMEMBER TO MAKE THE ARROWS OF Z AND X AXES EASY TO SEE FOR FUTURE COMPUTATIONS._
 
-<p align="center">
-  <img length="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
-</p>
-
 
 ###
 
 **»DENAVIT-HARTENBERG (DH) FRAME RULES**
-
 
  ###
 
@@ -252,14 +247,17 @@ _OR TRANSLATE THE AXIS UNTIL IT HITS THE OTHER_
 
 
 ###
+
+<p align="center">
+  <img length="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
+</p>
+
+
 <p align="center">
   <img length="100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/dbcf8610-0488-4048-a7c5-b19d15da8699">
 </p>
 
 ###
-<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
-<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
-</p>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1VEsTEDOvEs3ZMVf_mdQ5YYfPlQSplw2u/view?usp=drive_link" target="_blank">
@@ -267,17 +265,9 @@ _OR TRANSLATE THE AXIS UNTIL IT HITS THE OTHER_
   </a>
 </div>
 
-###
-###
-
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-</p>
 
 ###
-.
-###
-###
+
 ###
 
  <h2 align="center"> ˚ ༘♡ ⋆｡˚ DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
