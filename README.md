@@ -325,7 +325,7 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1WDlujtOCsjOI4wqjYOtqW2JSDW44mmZa/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
+    <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
@@ -374,11 +374,11 @@ CYLINDRICAL MANIPULATOR?**
 ㅤ
 
 <p align="center">	
-»DENAVIT-HARTENBERG PARAMETRIC TABLE OF A CYLINDRICAL MANIPULATOR
+»SOLUTIONS FOR HOMOGENEOUS TRANSFORMATION MATRIX OF A CYLINDRICAL MANIPULATOR
 </p>
 ㅤ
 <p align="center">	
-<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/60236aab-9ca4-4dbe-9efc-8144c7d5abe6">
+<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0689439e-b58f-48a2-a623-6acdeccd1863">
 </p>
 ㅤ
 
@@ -401,8 +401,8 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 </p>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1WDlujtOCsjOI4wqjYOtqW2JSDW44mmZa/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
+  <a href="https://drive.google.com/file/d/1VJzvq5nUsGKtA6AyXkhUuszTYmCvZqyq/view?usp=sharing">
+    <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
