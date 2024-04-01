@@ -133,10 +133,6 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
   <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
 </p>
 
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-</p>
-
 
 ###
 
@@ -176,7 +172,6 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
 <img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
 </p>
 
-###
 <div align="center">
   <a href="https://drive.google.com/file/d/1VEsTEDOvEs3ZMVf_mdQ5YYfPlQSplw2u/view?usp=drive_link" target="_blank">
     <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ed7b0f24-fa22-4e4d-96a0-b57f109d06f5"  />
