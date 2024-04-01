@@ -72,7 +72,7 @@ Cylindrical manipulators are usually used in different industries, including man
 
 # ˚ ༘♡ ⋆｡˚ Abstract
 
-This read me profile talks about the cylindrical manipulator which is assigned to the said group. The manipulator is a important tool that will be used in the near future of industries and manufacturing. This is part of the continous advance research on its own field.
+This read-me profile discusses the manipulator assigned to the said group, which is the cylindrical manipulator. The manipulator is an important tool commonly used in industries and manufacturing companies. This is part of the continuous advancement of research in its field. The main purpose of this task is to focus on a cylindrical manipulator, which involves solving degrees of freedom, assigning frames, obtaining the Denavit-Hartenberg parametric table, obtaining and solving the homogeneous transformation matrix, and solving the inverse kinematics using the graphical method. Aside from this, the task also deals with coding, specifically creating a calculator for both forward and inverse kinematics through Ubuntu Virtual Machine, Python, Peter Corke's Robotics Toolbox, and MATLAB. The cylindrical manipulator, along with its programmed GUI or Graphical User Interface calculator, will fulfill the requirements to solve forward and inverse kinematics easily, as well as verify the computations of different mathematical equations. This design is built to analyze and solve the problem to confirm the structure of the manipulator.
 
 
 ###
@@ -105,8 +105,8 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 
 ###
 
-<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
-<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
+<img align="left" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
+<img align="right" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
 </p>
 
 ###
@@ -131,7 +131,7 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 ###
 ###
 
-# ˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
+ <h2 align="center">˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
 
 ↳ DESCRIPTION ༉‧₊
 
