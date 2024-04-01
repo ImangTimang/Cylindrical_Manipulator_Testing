@@ -127,6 +127,12 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
 
 ###
 
+<p align="center">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
+</p>
+
+###
+
 ![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
 ###
