@@ -48,11 +48,12 @@
  <h2 align="center"> ˚ ༘♡ ⋆｡˚ Introduction 
 
  ###
-       A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
+ 
+A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
 
-	Cylindrical manipulators can perform tasks with a high degree of precision and agility because of their unique shape and design. The manipulator's cylindrical shape and wide range of motion make it easy to rotate things and reach into small spaces. Depending on the intended use, the manipulator can be equipped with a several kinds of end-effectors, such as grippers, suction cups, and tool heads.
+Cylindrical manipulators can perform tasks with a high degree of precision and agility because of their unique shape and design. The manipulator's cylindrical shape and wide range of motion make it easy to rotate things and reach into small spaces. Depending on the intended use, the manipulator can be equipped with a several kinds of end-effectors, such as grippers, suction cups, and tool heads.
 
-	Cylindrical manipulators are usually used in different industries, including manufacturing, automotive, and aerospace, as well as in research and development fields. They are often and usually used in assembly and disassembly tasks, as well as in handling and moving heavy or awkward objects in the field of industries.
+Cylindrical manipulators are usually used in different industries, including manufacturing, automotive, and aerospace, as well as in research and development fields. They are often and usually used in assembly and disassembly tasks, as well as in handling and moving heavy or awkward objects in the field of industries.
 
 
 ###
