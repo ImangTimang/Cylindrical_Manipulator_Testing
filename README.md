@@ -453,7 +453,8 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 
 
 ###
-![432499336_275146335642208_7583861344080145882_n](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/41be1959-bab9-45d1-88b9-471b2281de14)
+<img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/41be1959-bab9-45d1-88b9-471b2281de14"/> 
+
 
 >In this activity, I was able to review some topics from Robotics 1 that will help us to understand other topics in Robotics 2. It is important to learn the basics from solving the degrees of freedom up to solving the inverse kinematics before going to program your assigned manipulator. I also noticed how important the small details in programming, there are some things that cannot be taught at school but you need to discover it on your own to know its function and to widen our knowledge on programming using python. We also manage to build our own calculator for getting the forward and inverse kinematics of our cylindrical manipulator. We designed it based on our preference and  add other features to make it more lively and functional.
 
