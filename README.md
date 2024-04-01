@@ -311,32 +311,104 @@ CYLINDRICAL MANIPULATOR?**
 
 
 ###
+
+<p align="center">
+	
+_FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE VIDEO:_
+
+</p>
+
+###
 <p align="center">
   <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/a862da91-833b-4276-acd7-e6ac5da338b0">
 </p>
 
-###
-<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
-<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
-</p>
-
-
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-</p>
-
-###
 <div align="center">
   <a href="https://drive.google.com/file/d/1WDlujtOCsjOI4wqjYOtqW2JSDW44mmZa/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ed7b0f24-fa22-4e4d-96a0-b57f109d06f5"  />
+    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
 ###
+![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 ###
-.
+
+ <h2 align="center"> ˚ ༘♡ ⋆｡˚ HOMOGENEOUS TRANSFORMATION MATRIX OF A CYLINDRCAL MANIPULATOR
+
 ###
+↳ DESCRIPTION ༉‧₊
+
+**`·..➭ HOW TO OBTAIN THE HOMOGENEOUS TRANSFORMATION MATRIX OF A 
+CYLINDRICAL MANIPULATOR?**
+
+**‣STEP-BY-STEP PROCESS**
+ㅤ
+
+
+ㅤ
+
+<p align="center">	
+»PARTS OF A HOMOGENEOUS TRANSFORMATION MATRIX
+</p>
+
+
+<p align="center">	
+<img src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/9572909b-d2aa-42d3-b3f8-65d351477a6d">
+</p>
+
+<p align="center">	
+»STANDARD FORMULA OF A HOMOGENEOUS TRANSFORMATION MATRIX
+</p>
+ㅤ
+<p align="center">	
+<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/b6dd0db6-0984-496f-a84c-caf27baf1fff">
+</p>
+ㅤ
+<p align="center">	
+»DENAVIT-HARTENBERG PARAMETRIC TABLE OF A CYLINDRICAL MANIPULATOR
+</p>
+ㅤ
+<p align="center">	
+<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/60236aab-9ca4-4dbe-9efc-8144c7d5abe6">
+</p>
+ㅤ
+
+<p align="center">	
+»DENAVIT-HARTENBERG PARAMETRIC TABLE OF A CYLINDRICAL MANIPULATOR
+</p>
+ㅤ
+<p align="center">	
+<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/60236aab-9ca4-4dbe-9efc-8144c7d5abe6">
+</p>
+ㅤ
+
+
+
+
+</p>
+
 ###
+
+<p align="center">
+	
+_FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE VIDEO:_
+
+</p>
+
+###
+<p align="center">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/a862da91-833b-4276-acd7-e6ac5da338b0">
+</p>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1WDlujtOCsjOI4wqjYOtqW2JSDW44mmZa/view?usp=drive_link" target="_blank">
+    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
+  </a>
+</div>
+
+###
+![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
+
 ###
  <h2 align="center"> ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
    
