@@ -49,11 +49,11 @@
 
  ###
 
-A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
+       A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
 
-Cylindrical manipulators can perform tasks with a high degree of precision and agility because of their unique shape and design. The manipulator's cylindrical shape and wide range of motion make it easy to rotate things and reach into small spaces. Depending on the intended use, the manipulator can be equipped with a several kinds of end-effectors, such as grippers, suction cups, and tool heads.
+	Cylindrical manipulators can perform tasks with a high degree of precision and agility because of their unique shape and design. The manipulator's cylindrical shape and wide range of motion make it easy to rotate things and reach into small spaces. Depending on the intended use, the manipulator can be equipped with a several kinds of end-effectors, such as grippers, suction cups, and tool heads.
 
-Cylindrical manipulators are usually used in different industries, including manufacturing, automotive, and aerospace, as well as in research and development fields. They are often and usually used in assembly and disassembly tasks, as well as in handling and moving heavy or awkward objects in the field of industries.
+	Cylindrical manipulators are usually used in different industries, including manufacturing, automotive, and aerospace, as well as in research and development fields. They are often and usually used in assembly and disassembly tasks, as well as in handling and moving heavy or awkward objects in the field of industries.
 
 
 ###
@@ -76,7 +76,7 @@ Cylindrical manipulators are usually used in different industries, including man
 
  ###
 
-This read-me profile discusses the manipulator assigned to the said group, which is the cylindrical manipulator. The manipulator is an important tool commonly used in industries and manufacturing companies. This is part of the continuous advancement of research in its field. The main purpose of this task is to focus on a cylindrical manipulator, which involves solving degrees of freedom, assigning frames, obtaining the Denavit-Hartenberg parametric table, obtaining and solving the homogeneous transformation matrix, and solving the inverse kinematics using the graphical method. Aside from this, the task also deals with coding, specifically creating a calculator for both forward and inverse kinematics through Ubuntu Virtual Machine, Python, Peter Corke's Robotics Toolbox, and MATLAB. The cylindrical manipulator, along with its programmed GUI or Graphical User Interface calculator, will fulfill the requirements to solve forward and inverse kinematics easily, as well as verify the computations of different mathematical equations. This design is built to analyze and solve the problem to confirm the structure of the manipulator.
+	This read-me profile discusses the manipulator assigned to the said group, which is the cylindrical manipulator. The manipulator is an important tool commonly used in industries and manufacturing companies. This is part of the continuous advancement of research in its field. The main purpose of this task is to focus on a cylindrical manipulator, which involves solving degrees of freedom, assigning frames, obtaining the Denavit-Hartenberg parametric table, obtaining and solving the homogeneous transformation matrix, and solving the inverse kinematics using the graphical method. Aside from this, the task also deals with coding, specifically creating a calculator for both forward and inverse kinematics through Ubuntu Virtual Machine, Python, Peter Corke's Robotics Toolbox, and MATLAB. The cylindrical manipulator, along with its programmed GUI or Graphical User Interface calculator, will fulfill the requirements to solve forward and inverse kinematics easily, as well as verify the computations of different mathematical equations. This design is built to analyze and solve the problem to confirm the structure of the manipulator.
 
 
 ###
@@ -101,21 +101,28 @@ This read-me profile discusses the manipulator assigned to the said group, which
    
 ↳ DESCRIPTION ༉‧₊
 
-TASK 1
+**HOW TO SOLVE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR?**
 
-HOW TO SOLVE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR?
-
-STEP-BY-STEP PROCESS
+**STEP-BY-STEP PROCESS**
 
 IDENTIFY THE NUMBER OF m JOINTS AND n RIGID MOVING LINKS OF THE MANIPULATOR.
 
 IDENTIFY THE NUMBER OF CONSTRAINTS OF THE JOINT PRESENT IN THE MANIPULATOR.
+
+
 		FOR SPATIAL:					FOR PLANAR
 		[6-Ci]							[3-Ci]
 
 COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
+
 		FOR SPATIAL:						FOR PLANAR:
 		M= 6n-i=1m(6-Ci)						M= 3n-i=1m(3-Ci)
+
+
+###
+
+
+**FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR WATCH THE VIDEO BELOW:
 
 
 ###
@@ -123,10 +130,6 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
   <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
 </p>
 
-###
-###
-
-###
 
 <img align="left" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
 <img align="right" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
@@ -140,13 +143,14 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
   </a>
 </div>
 
-
-###
 ###
 
 <img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 <img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
+###
+
+
 
 ###
 .
@@ -205,6 +209,11 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
 <img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
 </p>
 
+
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
 ###
 <div align="center">
   <a href="https://drive.google.com/file/d/1WDlujtOCsjOI4wqjYOtqW2JSDW44mmZa/view?usp=drive_link" target="_blank">
@@ -213,12 +222,6 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
 </div>
 
 ###
-###
-
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-</p>
-
 ###
 .
 ###
