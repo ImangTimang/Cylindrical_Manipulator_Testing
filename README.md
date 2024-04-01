@@ -1,4 +1,4 @@
-
+#yawko na bukas ko na ulit are uupdate hehehhe
 
   
 # CYLINDIRCAL MANIPULATOR OF COMPANY 8
