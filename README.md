@@ -45,7 +45,7 @@
 ###
 ###
 
-# ˚ ༘♡ ⋆｡˚ Introduction 
+ <h2 align="center"> ˚ ༘♡ ⋆｡˚ Introduction 
 
 A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
 
@@ -70,7 +70,7 @@ Cylindrical manipulators are usually used in different industries, including man
 
 
 
-# ˚ ༘♡ ⋆｡˚ Abstract
+ <h2 align="center"> ˚ ༘♡ ⋆｡˚ Abstract
 
 This read-me profile discusses the manipulator assigned to the said group, which is the cylindrical manipulator. The manipulator is an important tool commonly used in industries and manufacturing companies. This is part of the continuous advancement of research in its field. The main purpose of this task is to focus on a cylindrical manipulator, which involves solving degrees of freedom, assigning frames, obtaining the Denavit-Hartenberg parametric table, obtaining and solving the homogeneous transformation matrix, and solving the inverse kinematics using the graphical method. Aside from this, the task also deals with coding, specifically creating a calculator for both forward and inverse kinematics through Ubuntu Virtual Machine, Python, Peter Corke's Robotics Toolbox, and MATLAB. The cylindrical manipulator, along with its programmed GUI or Graphical User Interface calculator, will fulfill the requirements to solve forward and inverse kinematics easily, as well as verify the computations of different mathematical equations. This design is built to analyze and solve the problem to confirm the structure of the manipulator.
 
@@ -90,7 +90,7 @@ This read-me profile discusses the manipulator assigned to the said group, which
 ###
 
 
-# ˚ ༘♡ ⋆｡˚ SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
+ <h2 align="center"> ˚ ༘♡ ⋆｡˚ SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
 
 ↳ DESCRIPTION ༉‧₊
 
@@ -133,6 +133,8 @@ This read-me profile discusses the manipulator assigned to the said group, which
 
  <h2 align="center">˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
 
+###
+
 ↳ DESCRIPTION ༉‧₊
 
 ###
@@ -165,8 +167,9 @@ This read-me profile discusses the manipulator assigned to the said group, which
 ###
 ###
 
-# ˚ ༘♡ ⋆｡˚ DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
+ <h2 align="center"> ˚ ༘♡ ⋆｡˚ DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
 
+###
 ↳ DESCRIPTION ༉‧₊
 
 ###
@@ -198,8 +201,10 @@ This read-me profile discusses the manipulator assigned to the said group, which
 ###
 ###
 ###
-# ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
-
+ <h2 align="center"> ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
+   
+###
+   
 ↳ DESCRIPTION ༉‧₊
 
 ###
