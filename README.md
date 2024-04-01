@@ -451,4 +451,11 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 
 > All in all, I got a deeper understanding about the forward and inverse kinematics of some manipulators, especially the cylidrical variant. Also the programming part of the said kinematics in a python environment using different kinds of libraries to program the forward and inverse kinematics calculator and a graphical representation using the robotics toolbox. Using and learning GitHub with my groupmates was also fun as we can collaborate our works seamlessly and easily. Though there are certain problems like the buttons not working perfectly, robotics toolbox graphical representation does not look like what is expected, music does not play when the button is pressed, and many more, but it was such a fun experience.
 
- 
+
+###
+![432499336_275146335642208_7583861344080145882_n](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/41be1959-bab9-45d1-88b9-471b2281de14)
+
+>In this activity, I was able to review some topics from Robotics 1 that will help us to understand other topics in Robotics 2. It is important to learn the basics from solving the degrees of freedom up to solving the inverse kinematics before going to program your assigned manipulator. I also noticed how important the small details in programming, there are some things that cannot be taught at school but you need to discover it on your own to know its function and to widen our knowledge on programming using python. We also manage to build our own calculator for getting the forward and inverse kinematics of our cylindrical manipulator. We designed it based on our preference and  add other features to make it more lively and functional.
+
+
+
