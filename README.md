@@ -498,7 +498,7 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 <img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/8f169b93-7631-4157-a627-ff9e14dc3a0c"/> 
 
 
->In this activity, I was able to review some topics from Robotics 1 that will help us to understand other topics in Robotics 2. It is important to learn the basics from solving the degrees of freedom up to solving the inverse kinematics before going to program your assigned manipulator. I also noticed how important the small details in programming, there are some things that cannot be taught at school but you need to discover it on your own to know its function and to widen our knowledge on programming using python. We also manage to build our own calculator for getting the forward and inverse kinematics of our cylindrical manipulator. We designed it based on our preference and  add other features to make it more lively and functional.
+>During this activity I've learned a lot of things about coding and the manipulators. We used the things we knew back then at Robotics 1 which we are applying right now at this laboratory activity. At first coding is kinda hard because the only course I've encounter which has coding is Programming. So I kinda  forgot the codes but eventually learned how to. I also learned how to code in Githu and use it. It is really fun and I did our readme and I enjoyed doing the readme. Even though at first it is hard to be familiarze in reaedme but later on coding became really easy work for me. So I've learned a lot valuable lesson and learnings from this laboratory activity. I've learned how to code manipulators also because I tried MatLab and Phyton on UBUNTU.
 
 ###
 
@@ -528,3 +528,9 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 
 
 ###
+<img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ea11036c-4687-41c6-8dee-32c5d725efb2"/> 
+
+
+>Learning subjects like Robotics 1 and Robotics 2 plays a crucial role in my life, especially as I pursue the Mechatronics engineering program. This serves as a means to develop my skills, both critical and analytical, as I am exposed to various topics, including different kinds of manipulators, degrees of freedom, assigning frames, creating D-H parametric tables, and solving inverse kinematics using graphical methods. Additionally, this activity enhances my programming skills, as we are instructed and guided by our professor, Engr. Mikko De Torres, in Python and Matlab. I have realized that building a robot or manipulator is not an easy task; it requires various steps, processes, and codes. However, this presents a valuable opportunity for me to create and explore other manipulators in the future.
+
+>In addition, as the group's Project Quality, I learned how to connect with my groupmates and how to seek assistance when I had no idea what to do. This is not a one-man journey but rather a group effort; thus, what I learn is to be more open with the group members and prioritize the tasks that must be completed in order for the group to function smoothly and successfully. Overall, these characteristics and qualities are beneficial because I can apply them in the future when I begin working in the field.
