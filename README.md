@@ -397,7 +397,8 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 
 ###
 <p align="center">
-  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/a862da91-833b-4276-acd7-e6ac5da338b0">
+  <img width="600" src="![pastel-academia-aesthetics-school-center pptx](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157549014/5f8354ef-8d86-47c2-83b8-683ecbf71be3)
+">
 </p>
 
 <div align="center">
