@@ -141,6 +141,26 @@ This read-me profile discusses the manipulator assigned to the said group, which
 
 ###
 
+
+**SOLUTION:**
+
+	JOINTS (m) = 3						REVOLUTE (R) = ?
+	LINKS (n) = 3							PRISMATIC (P) = ?
+
+CYLINDRICAL MANIPULATOR IS A SPATIAL MANIPULATOR. THEREFORE, WE WILL USE THE FORMULA:
+
+	M= 6n-i=1m(6-Ci)
+
+CYLINDRICAL MANIPULATOR = RPP
+
+	REVOLUTE = (6-Ci) = (6-1) = 5
+	PRISMATIC 1 = (6-Ci) = (6-1) = 5
+	PRISMATIC 2 =  (6-Ci) = (6-1) = 5
+
+
+
+###
+
 ![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
 ###
