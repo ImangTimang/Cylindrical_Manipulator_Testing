@@ -121,8 +121,11 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
 
 ###
 
+<p align="center">
+	
+**FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR WATCH THE VIDEO:**
 
-**FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR WATCH THE VIDEO BELOW:
+</p>
 
 
 ###
@@ -130,10 +133,10 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
   <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
 </p>
 
-
-<img align="left" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
-<img align="right" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
+<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
 </p>
+
 
 ###
 
@@ -145,10 +148,9 @@ COMPUTE THE MOBILITY OF THE MANIPULATOR WITH THE USE OF GRUBLER’S CRITERION.
 
 ###
 
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="left" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
+<img align="right" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
 </p>
-###
 
 
 
