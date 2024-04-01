@@ -410,43 +410,109 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 ![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
 ###
- <h2 align="center"> ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
-   
+  <h2 align="center"> ˚ ༘♡ ⋆｡˚ Solving Inverse Kinematics for Cylindrical Manipulator
+
 ###
-   
 ↳ DESCRIPTION ༉‧₊
+
+**`·..➭ HOW TO SOLVE THE INVERSE KINEMATIC SOLUTION USING GRAPHICAL METHOD OF A CYLINDRICAL MANIPULATOR**ㅤ
+
+<p align="center">	
+»FIGURE OF A CYLINDRICAL MANIPULATOR
+
+</p>
+
+
+<p align="center">	
+<img src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/3361407e-ff45-4a55-a75c-76d31d5bb830">
+</p>
+
+ㅤ
+
+
+
+**‣STEP-BY-STEP PROCESS**
+
+<p align="center">	
+➥ STEP 1: REDRAW THE GIVEN MANIPULATOR TO ITS TOP VIEW TO DERIVE THE SOLUTION OF THE INVERSE KINEMATICS USING PYTHAGOREAN THEOREM, SOHCAHTOA, AND LAW OF COSINES
+
+</p>
+ㅤ
+<p align="center">	
+<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/2edc293c-3b14-4f94-be33-da822644f652">
+</p>
+
+ㅤ
+<p align="center">	
+➥STEP 2: REDRAW THE GIVEN MANIPULATOR TO ITS FRONT VIEW TO DERIVE THE SOLUTION OF THE INVERSE KINEMATICS
+
+</p>
+ㅤ
+<p align="center">	
+<img src= "https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/bb724aa0-c99e-4f5b-90ac-48bed2b3f061">
+</p>
+ㅤ
+
+###
+
+<p align="center">
+	
+_FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE VIDEO:_
+
+</p>
 
 ###
 <p align="center">
-  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/b2ca44c9-a63c-4ab4-b984-47959ffb9044">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/a862da91-833b-4276-acd7-e6ac5da338b0">
 </p>
 
-###
-<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
-<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
-</p>
-
-###
-###
 <div align="center">
-  <a href=https://drive.google.com/file/d/1U9jcroiBhVzGbekWbdQThGD9ZB5SY1Fr/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ed7b0f24-fa22-4e4d-96a0-b57f109d06f5"  />
+  <a href="https://drive.google.com/file/d/1U9jcroiBhVzGbekWbdQThGD9ZB5SY1Fr/view?usp=drive_link">
+    <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
 ###
-###
-
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-<img align="right" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
-</p>
+![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
 ###
 
  <h2 align="center"> ˚ ༘♡ ⋆｡˚ CONCLUSION
 
  ###
+ 
+<img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/41be1959-bab9-45d1-88b9-471b2281de14"/> 
 
+
+>In this activity, I was able to review some topics from Robotics 1 that will help us to understand other topics in Robotics 2. It is important to learn the basics from solving the degrees of freedom up to solving the inverse kinematics before going to program your assigned manipulator. I also noticed how important the small details in programming, there are some things that cannot be taught at school but you need to discover it on your own to know its function and to widen our knowledge on programming using python. We also manage to build our own calculator for getting the forward and inverse kinematics of our cylindrical manipulator. We designed it based on our preference and  add other features to make it more lively and functional.
+
+###
+ㅤ
+ㅤ
+
+ㅤ
+
+ㅤ
+ㅤ
+###
+<img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/8f169b93-7631-4157-a627-ff9e14dc3a0c"/> 
+
+
+>In this activity, I was able to review some topics from Robotics 1 that will help us to understand other topics in Robotics 2. It is important to learn the basics from solving the degrees of freedom up to solving the inverse kinematics before going to program your assigned manipulator. I also noticed how important the small details in programming, there are some things that cannot be taught at school but you need to discover it on your own to know its function and to widen our knowledge on programming using python. We also manage to build our own calculator for getting the forward and inverse kinematics of our cylindrical manipulator. We designed it based on our preference and  add other features to make it more lively and functional.
+
+###
+
+ㅤ
+ㅤ
+
+ㅤ
+
+ㅤ
+ㅤ
+
+
+
+###
 <img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/8b34d843-0e1b-4c72-909f-f4ffc5cad793"/> 
 
 > All in all, I got a deeper understanding about the forward and inverse kinematics of some manipulators, especially the cylidrical variant. Also the programming part of the said kinematics in a python environment using different kinds of libraries to program the forward and inverse kinematics calculator and a graphical representation using the robotics toolbox. Using and learning GitHub with my groupmates was also fun as we can collaborate our works seamlessly and easily. Though there are certain problems like the buttons not working perfectly, robotics toolbox graphical representation does not look like what is expected, music does not play when the button is pressed, and many more, but it was such a fun experience.
@@ -462,10 +528,3 @@ _FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE 
 
 
 ###
-<img align="left" height="300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/41be1959-bab9-45d1-88b9-471b2281de14"/> 
-
-
->In this activity, I was able to review some topics from Robotics 1 that will help us to understand other topics in Robotics 2. It is important to learn the basics from solving the degrees of freedom up to solving the inverse kinematics before going to program your assigned manipulator. I also noticed how important the small details in programming, there are some things that cannot be taught at school but you need to discover it on your own to know its function and to widen our knowledge on programming using python. We also manage to build our own calculator for getting the forward and inverse kinematics of our cylindrical manipulator. We designed it based on our preference and  add other features to make it more lively and functional.
-
-
-
