@@ -157,17 +157,32 @@ CYLINDRICAL MANIPULATOR = RPP
 	PRISMATIC 1 = (6-Ci) = (6-1) = 5
 	PRISMATIC 2 =  (6-Ci) = (6-1) = 5
 
+###
 
+<p align="center">
+  <img src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/1bbcd11a-2c60-419a-b508-e935fbb0faf2">
+</p>
 
 ###
 
-![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
+	M= 6n-i=1m(6-Ci)
+
+	M = 6(3)-[(6-1)+(6-1)+(6-1)]
+	M = 18 - (5+5+5)
+	M =18-15
+	M = 3
+###
+
+
+**THEREFORE, THIS IS AN UNDER ACTUATED SPATIAL MANIPULATOR WITH 3 DOF.**
+
+
 
 ###
 
 <p align="center">
 	
-**FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR WATCH THE VIDEO:**
+_FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR WATCH THE VIDEO:_
 
 </p>
 
@@ -177,27 +192,16 @@ CYLINDRICAL MANIPULATOR = RPP
   <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
 </p>
 
-
-###
-
 <div align="center">
   <a href="https://drive.google.com/file/d/1VQinvBY4uOlH3hYz1ZLntOjnTrg3Q3Fj/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ed7b0f24-fa22-4e4d-96a0-b57f109d06f5"  />
+    <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
 ###
 
-<img align="left" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
-<img align="right" height="70" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
-</p>
+![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
-
-
-###
-.
-###
-###
 ###
 
  <h2 align="center">˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
@@ -218,7 +222,7 @@ CYLINDRICAL MANIPULATOR = RPP
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1VEsTEDOvEs3ZMVf_mdQ5YYfPlQSplw2u/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/ed7b0f24-fa22-4e4d-96a0-b57f109d06f5"  />
+    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
