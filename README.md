@@ -113,7 +113,8 @@ This read-me profile discusses the manipulator assigned to the said group, which
 **`·..➭ HOW TO SOLVE THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR?**
 
 ###
-
+         
+###
 
 **‣ STEP-BY-STEP PROCESS**
 
@@ -254,16 +255,23 @@ _OR TRANSLATE THE AXIS UNTIL IT HITS THE OTHER_
 </p>
 
 ###
+<p align="center">
+	
+_FOR MORE EXPLANATION ABOUT DH FRAME RULES OF CYLINDRICAL MANIPULATOR WATCH THE VIDEO:_
 
+</p>
+
+
+###
 
 <p align="center">
-  <img length="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
 </p>
 
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1VEsTEDOvEs3ZMVf_mdQ5YYfPlQSplw2u/view?usp=drive_link" target="_blank">
-    <img height=300" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
+    <img height=100 src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
 
