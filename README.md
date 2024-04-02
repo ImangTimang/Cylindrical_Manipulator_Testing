@@ -16,8 +16,9 @@
 <img align="left" height="60" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/58e6181e-cbbb-49a3-b613-3f018c737fec"/> 
 <img align="right" height="60" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/58e6181e-cbbb-49a3-b613-3f018c737fec"> 
 <p align="center">
-  <img width="900" height="200" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/0b935dce-8c79-4c9d-8128-62c4c9e5f19a">
+  <img width="900" height="500" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/64809dc1-2cf8-49a7-b56e-98ea96ab0824">
 </p>
+
 
 ###
 
