@@ -187,7 +187,7 @@ _FOR MORE EXPLANATION ABOUT SOLVING THE THE DEGREES OF FREEDOM OF A CYLINDRICAL 
 
 ###
 <p align="center">
-  <img width="600" src="![pastel-academia-aesthetics-school-center pptx](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157549014/ad8076dc-b670-453f-a936-aa89fa4dcda0)
+  <img width="600" src="(https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157549014/ad8076dc-b670-453f-a936-aa89fa4dcda0)
 
 ">
 </p>
