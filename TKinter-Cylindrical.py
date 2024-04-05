@@ -31,6 +31,8 @@ def f_k():
     t1 = float(t1_E.get())
     d2 = float(d2_E.get())
     d3 = float(d3_E.get())
+    ##Plays Sound when button is pressed, Change Path File When Needed
+    playsound.playsound("/home/imang/ROBO2/Cylindrical/Music/toyphone_F.mp3")
 
     # degree to radian
     t1 = (t1/180.0)*np.pi
@@ -93,9 +95,8 @@ def f_k():
     Cylindrical.teach(q=[t1,d2,d3],block=True)
 
 
-    ##Plays Sound when button is pressed
-    playsound.playsound("/home/imang/ROBO2/Cylindrical/Music/toyphone_F.mp3")
-## Clears all Entry Boxes
+    
+    
 def rst():
     
     a1_E.delete(0,END)
@@ -111,7 +112,8 @@ def rst():
     Z_E.delete(0,END)
 
     ##Plays Sound when button is pressed
-    playsound.playsound("/home/imang/ROBO2/Cylindrical/Music/toyphone_rst.mp3")
+    playsound.playsound("/home/imang/ROBO2/Cylindrical/Music/toyphone_rst.mp3")#Change Path File when needed
+
 
 ## Inverse Kinematics
 def i_k():
@@ -125,7 +127,9 @@ def i_k():
     y0_3 = float(Y_E.get())
     z0_3 = float(Z_E.get())
     
-          #Inverse Kinematic Solutions using Graphical Method
+    #Change Path File when needed
+    playsound.playsound("/home/imang/ROBO2/Cylindrical/Music/toyphone_I.mp3")
+    #Inverse Kinematic Solutions using Graphical Method
 
     # Solution 1
     t1 = np.arctan(y0_3/x0_3)
@@ -159,10 +163,9 @@ def i_k():
 
     Cylindrical.teach(q=[t1,d2,d3],block=True)
     
-    playsound.playsound("/home/imang/ROBO2/Cylindrical/Music/toyphone_I.mp3")
 
-
-
+    
+        
     
 ## Frame
 FI = LabelFrame(gui,text="Link Lengths and Joint Variables",font=("Comic Sans MS",20))
@@ -256,6 +259,14 @@ cm10 = Label(PV,text=("cm"),font=(10))
 
 Z.grid(row=2,column=0)
 Z_E.grid(row=2,column=1)
-cm10.grid(row=2,column=2)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+cm10.grid(row=2,column=2) 
+
+img = PhotoImage(file="/home/imang/ROBO2/Cylindrical/Cylindrical.gif")
+img = img.subsample(3,3)
+#resized_image = img.resize(20, 20)
+PI = Label(gui,image=img)
+PI.grid(row=3,column=0)
+
+
 
 gui.mainloop()
