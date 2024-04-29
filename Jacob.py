@@ -149,3 +149,16 @@ print("zp = ",zp)
 print("ωx = ",ωx)
 print("ωy = ",ωy)
 print("ωz = ",ωz)
+
+## Singularity
+D_J = np.linalg.det(JM1)
+print("D_J = ",D_J)
+
+## Inverse Velocity
+I_V = np.linalg.inv(JM1)
+print("I_V = ",I_V)
+
+# Force-Torque Analysis
+F_T = np.transpose(JM1)
+print("F_T = ")
+print(F_T)
