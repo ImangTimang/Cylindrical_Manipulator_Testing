@@ -274,7 +274,17 @@ def f_k():
 
     print(Cylindrical)
 
-    Cylindrical.teach(q=[t1,d2,d3],block=True)
+    q1 = np.array([t1,d2, d3])
+
+    x1 = -15
+    x2 = 15
+    y1 = -15
+    y2 = 15
+    z1 = 0.0
+    z2 = 15     
+
+    # Plot commands
+    Cylindrical.plot(q1,limits=[x1,x2,y1,y2,z1,z2],block=True)
 
 
     
@@ -342,11 +352,114 @@ def i_k():
         ]   , name="Cylindrical")
 
     print(Cylindrical)
+    q1 = np.array([t1,d2, d3])
 
-    Cylindrical.teach(q=[t1,d2,d3],block=True)
+    x1 = -15
+    x2 = 15
+    y1 = -15
+    y2 = 15
+    z1 = 0.0
+    z2 = 15     
+
+    # Plot commands
+    Cylindrical.plot(q1,limits=[x1,x2,y1,y2,z1,z2],block=True)
     
 
+def p_t():
+    a1 = 3
+    a2 = 3
+    a3 = 3
+    Cylindrical = DHRobot([
+            RevoluteDH(a1,0,(0.0/180.0)*np.pi,(0.0/180.0)*np.pi,qlim=[-np.pi/2,np.pi/2]),
+            PrismaticDH(0,0,(270.0/180.0)*np.pi,a2,qlim=[0,10]),
+            PrismaticDH(0,0,(0.0/180.0)*np.pi,a3,qlim=[0,10]),
+        ]   , name="Cylindrical")
     
+    q0 = np.array([0,0,0])    
+    q1 = np.array([np.pi/4,
+                   0,
+                   4.071])
+    q2 = np.array([0,
+                   2,
+                   2])
+    q3 = np.array([-.172*np.pi,
+                   5,
+                   2.831])
+    q4 = np.array([-0.1476*np.pi,
+                   8,
+                   8.18])
+    
+    traj1 = rtb.jtraj(q0,q1,20)
+    traj2 = rtb.jtraj(q1,q2,20)
+    traj3 = rtb.jtraj(q2,q3,20)
+    traj4 = rtb.jtraj(q3,q4,20)
+
+    x1 = -15
+    x2 = 15
+    y1 = -15
+    y2 = 15
+    z1 = 0.0
+    z2 = 15 
+
+
+    Cylindrical.plot(traj1.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj2.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj3.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj4.q,limits=[x1,x2,y1,y2,z1,z2],block=True)
+
+def weld():
+    a1 = 3
+    a2 = 3
+    a3 = 3
+    Cylindrical = DHRobot([
+            RevoluteDH(a1,0,(0.0/180.0)*np.pi,(0.0/180.0)*np.pi,qlim=[-np.pi/2,np.pi/2]),
+            PrismaticDH(0,0,(270.0/180.0)*np.pi,a2,qlim=[0,10]),
+            PrismaticDH(0,0,(0.0/180.0)*np.pi,a3,qlim=[0,10]),
+        ]   , name="Cylindrical")
+    
+    q0 = np.array([0,0,0])    
+    q1 = np.array([0,
+                   4,
+                   2.831])
+    q2 = np.array([np.pi/2,
+                   4,
+                   2.831])
+    q3 = np.array([np.pi,
+                   3,
+                   2.831])
+    q4 = np.array([(3*np.pi)/2,
+                   2,
+                   2.831])
+    q5 = np.array([2*np.pi,
+                   1.5,
+                   2.831])
+    q6 = np.array([2*np.pi,
+                   0,
+                   0])
+    
+   
+    
+    traj1 = rtb.jtraj(q0,q1,20)
+    traj2 = rtb.jtraj(q1,q2,20)
+    traj3 = rtb.jtraj(q2,q3,20)
+    traj4 = rtb.jtraj(q3,q4,20)
+    traj5 = rtb.jtraj(q4,q5,20)
+    traj6 = rtb.jtraj(q5,q6,20)
+
+    x1 = -15
+    x2 = 15
+    y1 = -15
+    y2 = 15
+    z1 = 0.0
+    z2 = 15 
+
+
+    Cylindrical.plot(traj1.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj2.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj3.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj4.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj5.q,limits=[x1,x2,y1,y2,z1,z2])
+    Cylindrical.plot(traj6.q,limits=[x1,x2,y1,y2,z1,z2],block=True)  
         
     
 ## Frame
@@ -449,6 +562,15 @@ img = img.subsample(3,3)
 PI = Label(gui,image=img)
 PI.grid(row=3,column=0)
 
+#Path and Trajectory
+PT = LabelFrame(gui,text="Path and Trajectory Planning",font=("Comic Sans MS",20))
+PT.grid(row=4,column=0)
 
+#Buttons for PT
+PnP = Button(PT,text="Pick and Place",font=(10),bg="black", fg="white",command=p_t)
+Weld = Button(PT,text="Welding",font=(10),bg="hot pink", fg="white",command=weld)
+
+PnP.grid(row=0,column=0,padx=(40,0))
+Weld.grid(row=0,column=1,padx=(0,40))
 
 gui.mainloop()
